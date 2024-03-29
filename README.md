@@ -22,6 +22,6 @@ This dataset comprises sales transactions captured at a retail store. The datase
 17)  Based on gender, check the total purchased amount and the average purchasing amount
 
 #
-|Name |Python File|CSV File|My Linkdln|
+|Name |Python File|CSV File|My Linkedln|
 |-|-|-|-|
 |Black Friday Data Analysis|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday%20Sales%20Analysis_2.ipynb)|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday.csv)|[Link]()|
