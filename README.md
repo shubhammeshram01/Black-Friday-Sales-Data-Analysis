@@ -1,10 +1,16 @@
 # Black-Friday-Sales-Data-Analysis
 
-This dataset comprises sales transactions captured at a retail store. The dataset has 5,50,069 rows and 12 columns.
+This dataset comprises sales transactions captured at a retail store. The dataset has 5,50,069 rows and 12 columns
+
+## Analyze the dataset using the following Python libraries :
+* NumPy
+* Pandas
+* Seaborn
+* Matplotlib
 
 ## Analyze and Perform the following methods on the dataset :
 1)  Create a new dataset having all the product-related columns
-2)  Check the size,the columns and the data types
+2)  Check the size, columns, data types
 3)  Change the data type of "Purchase" to "float"
 4)  Generate descriptive statistical values
 5)  Get the percentage distribution of "Product_ID" available and the highest occurring product in the dataset
