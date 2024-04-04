@@ -30,5 +30,5 @@ This dataset comprises sales transactions captured at a retail store. The datase
 #
 |Name |Python File|CSV File|My Linkedln|
 |-|-|-|-|
-|Black Friday Sales Analysis with Pandas|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday%20Sales%20Analysis_2.ipynb)|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday.csv)|[Link]()|
 |Black Friday Sales Analysis with Seaborn, Matplotlib|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday%20Sales%20Analysis%20-%20Visualize.ipynb)|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday.csv)|[Link]()|
+|Black Friday Sales Analysis with Pandas|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday%20Sales%20Analysis_2.ipynb)|[Link](https://github.com/shubhammeshram01/Black-Friday-Sales-Data-Analysis/blob/main/Black%20Friday.csv)|[Link]()|
